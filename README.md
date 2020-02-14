@@ -1,6 +1,6 @@
 # contact_book
 
-A new Flutter project.
+Flutter agenda de contatos.
 
 ## Getting Started
 
